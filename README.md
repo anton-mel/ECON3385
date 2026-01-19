@@ -2,9 +2,6 @@
 
 `<anton.melnychuk@yale.edu>`
 
-Find all the solutions committed in the GitHub repo:
-https://github.com/anton-mel/ECON3385. Navigate to the branch `<psetID>` for respective problem set.
-
 ## Setup
 
 1. Create and activate virtual environment:
