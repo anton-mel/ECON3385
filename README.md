@@ -1,33 +1,14 @@
-# Problem Set: How to Run
+# ECON3385: Measuring Market Power Solutions (SP26)
 
-`<anton.melnychuk@yale.edu>`
+This repository contains solutions to problem sets for ECON3385: Measuring Market Power.
 
-Find all the solutions committed in the GitHub repo:
-https://github.com/anton-mel/ECON3385. Navigate to the branch `<psetID>` for respective problem set.
+## Repository Structure
 
-## Setup
+Each problem set is organized on a separate branch:
+- `pset1` - Problem Set 1 solutions
+- `pset2` - Problem Set 2 solutions (when available)
+- ... and so on
 
-1. Create and activate virtual environment:
-```bash
-python3 -m venv venv
-source venv/bin/activate  # On macOS/Linux
-```
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-pip install jupyter ipykernel
-```
-
-## Run Notebook
-
-```bash
-source venv/bin/activate
-jupyter notebook ps1_solution.ipynb
-```
-
-Or execute directly:
-```bash
-source venv/bin/activate
-jupyter nbconvert --to notebook --execute --inplace ps1_solution.ipynb
-```
+Feel free to contact me: <br>
+`anton.melnychuk@yale.edu`
