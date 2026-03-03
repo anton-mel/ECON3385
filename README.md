@@ -1,4 +1,4 @@
-# Problem Set 6: How to Run
+# Problem Set 7: How to Run
 
 `<anton.melnychuk@yale.edu>`
 
